@@ -58,7 +58,7 @@ define([
      */
     displayReturnedDatasetToConsole(debugMode, dataset) {
       if (debugMode) {
-        console.log('** Recieved data from engine:')
+        console.log('** Received data from engine:')
         console.log(dataset);
       }
     },
@@ -214,7 +214,7 @@ define([
     },
 
     /**
-     * validateDimension - Recieve dimension object and return field value
+     * validateDimension - Receive dimension object and return field value
      *
      * @param {Object} dimension Dimension data (layout.props.dimensions[i])
      *
@@ -232,7 +232,7 @@ define([
       return result;
     },
     /**
-     * validateMeasure - Recieve measure object and return measure expression value
+     * validateMeasure - Receive measure object and return measure expression value
      *
      * @param {Object} measure Measure data (layout.props.measures[i])
      *

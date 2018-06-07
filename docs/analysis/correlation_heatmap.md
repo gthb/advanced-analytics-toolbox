@@ -24,6 +24,6 @@ Displays correlation matrix heatmap.
 ## Example1 - The Boston Housing Dataset
 [Multicollinearity]('https://en.wikipedia.org/wiki/Multicollinearity') may exist when two or more of the predictors in a regression model are highly correlated. When it exists, the coefficient estimates of the multiple regression may return erroneous values. In this example, we create a correlation matrix heatmap to check the correlations between predictors in a linear model of the Boston housing dataset.
 
-  1. Follow the instruction of example 1 explained on [Myltiple regression analysis](./regression_analysis.md). Select[Multiple linear regression analysis] > [Correlation matrix heatmap] for [Analysis Type].
+  1. Follow the instruction of example 1 explained on [Multiple regression analysis](./regression_analysis.md). Select[Multiple linear regression analysis] > [Correlation matrix heatmap] for [Analysis Type].
   2. From the correlation matrix heatmap, you are able to find out that the correlation between rad and tax is high.
   ![correlation heatmap example1](./images/correlation_heatmap_example1.png)
