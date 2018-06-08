@@ -61,7 +61,7 @@ These external libraries are used within this solution. Many thanks to the autho
 
 **Library 5**
 * Name: d3
-* License: GNU General Public License, version 3 (https://github.com/d3/d3/blob/master/LICENSE)
+* License: BSD 3-clause "New" or "Revised" License (https://github.com/d3/d3/blob/master/LICENSE)
 * Url: https://github.com/d3/d3
 * Author: Mike Bostock
 
